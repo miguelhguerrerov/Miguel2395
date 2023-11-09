@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Miguel2395
+- 👋 Hi, I’m @miguelhguerrerov
 - 👀 I’m interested in Project Management and Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Project Management Project's
